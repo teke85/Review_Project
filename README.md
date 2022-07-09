@@ -2,7 +2,7 @@
 
 # Microverse Trials Project Review
 
-> This project is a review of the previously submited microverse trials.
+> This project is a review of the previously submited microverse trials project.
 
 ## Live Demo (if available)
 

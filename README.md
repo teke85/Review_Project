@@ -4,40 +4,9 @@
 
 > This project is a review of the previously submited microverse trials.
 
-## Built With
-
-- Languages Used: Html, CSS
-- Code Editor: Visual Studio Code
-- Tools Used: Linters
-- VCS: Git
-- Package Manager: Node, NPM
-
 ## Live Demo (if available)
 
 [Live Demo Link](N/A)
-
-## Prerequisites
-
-To get a local copy up and running follow these simple example steps.
-
-- You need to have a Code Editor Installed.
-- Make sure Nodejs and NPM are installed in your system to setup linters
-- Setup
-
-## Setup
-
-- git clone https://github.com/teke85/portfolio_project-setup.git
-- Setup Linters by running following commands in your terminal:
-
-  - npm install --save-dev stylelint@13.x stylelint-scss@3.x - - - stylelint-config-standard@21.x stylelint-csstree-validator@1.x (Install the StyleHint linters)
-  - npx stylelint "\*/.{css,scss}" (checks for the CSS related errors in your project)
-  - npx stylelint "\*/.{css,scss}" --fix (This will fix the linters error, if any)
-  - npm install --save-dev hint@7.x (Install the WebHint Linters)
-  - npx hint . (You should see Finishing... on your terminal)
-
-  ## Live Demo (if available)
-
-  Non Available
 
 ## Authors
 

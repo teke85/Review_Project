@@ -6,7 +6,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](N/A)
+[Live Demo Link] Not Available
 
 ## Authors
 

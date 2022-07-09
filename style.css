@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+
+body {
+  background-image: linear-gradient(
+      45deg,
+      rgba(212, 212, 206, 0.62),
+      rgba(118, 91, 217, 0.58)
+    ),
+    url("./images/1500x500.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#form-body {
+  padding: 5% 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.section-heading h1,
+.section-heading p {
+  color: #fff;
+}
+
+.section-heading h1 {
+  font-size: 4rem;
+  padding: 0.5em 0;
+}
+
+#description {
+  font-size: 2rem;
+  margin-bottom: 1em;
+}
+.form-box {
+  padding: 5%;
+  background-color: rgb(85, 85, 149);
+}
+.fields {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4%;
+}
+.fields label {
+  color: #fff;
+  font-size: 2.3rem;
+  padding: 0.2em 0;
+}
+
+input,
+select {
+  padding: 0.5em;
+  font-size: 1.4rem;
+  border-radius: 0.7rem;
+  outline: none;
+}
+input[type="submit"] {
+  width: 100%;
+  background-color: #73fb77;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 0.7rem;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.fields h3 {
+  color: #fff;
+  font-size: 2.3rem;
+}
+textarea {
+  font-size: 1.4rem;
+}

@@ -22,7 +22,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This project was created by sannidhya during the microverse trials https://github.com/serialferris. A huge thank you to him for allowing me to use his repository.
+- This project was created by sannidhya during the microverse trials https://github.com/serialferris. A huge thank you to him for allowing me to review this project repository.
 
 ## 📝 License
 
